@@ -1,0 +1,43 @@
+.mainhead{
+    text-align: center;
+    font-weight: bold;
+}
+
+body{
+    background: linear-gradient(to bottom, rgb(230, 250, 250), rgb(200, 240, 250))no-repeat;
+    background-size: cover;
+    height: 92vh;
+}
+
+.button123{
+    color: black;
+    background: linear-gradient(to bottom, rgb(230, 250, 250), rgb(200, 240, 250))no-repeat;
+    border-color: cyan;
+    border-radius: 6px;
+    box-shadow: 5px 5px 3px rgb(82,11,77);
+}
+
+.table123{
+    color: black;
+    background: linear-gradient(to bottom, rgb(230, 250, 250), rgb(200, 240, 250))no-repeat;
+    border-color: cyan;
+    border-radius: 6px;
+    box-shadow: 5px 5px 3px rgb(82,11,77);
+}
+
+.cbody{
+    background: rgb(250, 230, 220);
+}
+
+.card .card-header {
+    background-color: rgb(245, 220, 205);
+}
+
+.row1{
+    text-align: center;
+    font-weight: bold;
+}
+
+td{
+    text-align: center;
+}
